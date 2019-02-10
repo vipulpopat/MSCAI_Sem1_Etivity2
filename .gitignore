@@ -3,3 +3,4 @@ bank_et2.csv
 Lab+2+-+Data+Preparation.ipynb
 loans_train.csv
 .ipynb_checkpoints/
+*.xlsx
